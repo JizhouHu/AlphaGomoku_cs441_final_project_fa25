@@ -35,9 +35,14 @@ These scripts allow humans to play against AI or watch AI vs AI matches.
 - `play_onboard_logic_resnet.py`: Watch a visual match between the Logic Agent and the ResNet Agent.
 
 ### Data and Models
-- `game_data/`: Directory containing the raw game records (Renju dataset) used for training.
+- `game_data/`: Directory containing the raw game records (Renju dataset) used for training. More training data can be added to this directory.
 - `*.pth`: Saved model weights (e.g., `gomoku_cnn.pth`, `gomoku_resnet.pth`).
 - `*.txt`: Output logs from training and evaluation scripts (e.g., `cnn_output.txt`, `EvE_mlp_cnn_output.txt`).
+
+### Data Source
+The training data for this project was sourced from [Gomocup](https://gomocup.org/), specifically the results from the **2024 Freestyle 15x15** tournament.
+- **Source URL**: [Gomocup 2024 Results](https://gomocup.org/results/gomocup-result-2024/)
+- **Dataset**: Freestyle 15x15 games.
 
 ## Setup Instructions (Google Colab)
 
