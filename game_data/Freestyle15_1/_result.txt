@@ -1,0 +1,60 @@
+1. RAPFI24 2187
+    wins: 125+125, losses: 3+0, draws: 4+7
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 548s, time/turn: 18287ms, move/game: 30
+
+2. JAX24 1928
+    wins: 106+100, losses: 19+26, draws: 7+6
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 362s, time/turn: 10979ms, move/game: 33
+
+3. ALPHAGOMOKU.MK24 1912
+    wins: 107+96, losses: 18+30, draws: 7+6
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 737s, time/turn: 21888ms, move/game: 34
+
+4. EMBRYO24 1798
+    wins: 99+87, losses: 28+42, draws: 5+3
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 388s, time/turn: 12709ms, move/game: 31
+
+5. YIXIN18 1705
+    wins: 89+76, losses: 43+52, draws: 0+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 391s, time/turn: 13478ms, move/game: 29
+
+6. WINE18 1438
+    wins: 46+45, losses: 82+85, draws: 4+2
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 580s, time/turn: 21815ms, move/game: 27
+
+7. SLOWRENJU20 1412
+    wins: 37+45, losses: 88+84, draws: 7+3
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 544s, time/turn: 19997ms, move/game: 27
+
+8. HEWER18 1391
+    wins: 40+39, losses: 91+90, draws: 1+3
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 371s, time/turn: 12929ms, move/game: 29
+
+9. WHOSE19 1388
+    wins: 40+38, losses: 89+93, draws: 3+1
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 465s, time/turn: 16725ms, move/game: 28
+
+10. DEEPFIRE19 1373
+    wins: 38+35, losses: 92+93, draws: 2+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 643s, time/turn: 23392ms, move/game: 27
+
+11. TITO14 1367
+    wins: 33+40, losses: 98+90, draws: 1+2
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 119s, time/turn: 4626ms, move/game: 26
+
+12. ARBILLO 1301
+    wins: 28+29, losses: 104+103, draws: 0+0
+    timeouts: 1, errors: 0, total games: 264
+    time/game: 643s, time/turn: 23632ms, move/game: 27
+
